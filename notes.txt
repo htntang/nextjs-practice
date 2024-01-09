@@ -1,0 +1,17 @@
+Main concepts in Next.js (App Route):
+https://www.youtube.com/watch?v=vwSlYG7hFk0
+
+
+1) Routing and navigation
+    <Link />
+2) Metadata
+3) Styling (Tailwind CSS)
+4) <Image />
+5) Client vs. Server Components
+6) Server Actions (POST/PUT/DELETE)
+7) Suspense and Streaming
+8) Caching
+9) Static & Dynamic Rendering
+10) Middleware
+11) Folder Structure
+12) Production Build and Deploying
